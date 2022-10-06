@@ -3,7 +3,7 @@
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ismailummer.ismailummer)
    <img src=https://img.shields.io/badge/flutter-devoloper-blue >
  <h3>Me as a flutter developer always fixing errors</h3>
- <img src=res/errorcode.gif width=400rem height=220rem>
+ <img src=res/errorcode.gif width=400rem height=270rem>
 <!--
 **IsmailUmmer/ismailummer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
