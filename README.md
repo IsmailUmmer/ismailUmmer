@@ -1,7 +1,7 @@
  <h2> Hi there 👋</h2>
  
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ismailummer.ismailummer)
-   <img src=https://img.shields.io/badge/flutter-devoloper-blue>
+   <img src=https://img.shields.io/badge/flutter-devoloper-blue width=10rem height=10rem>
  <h3>Me as a flutter developer always fixing errors</h3>
  <img src=res/errorcode.gif>
 <!--
